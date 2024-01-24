@@ -1,0 +1,13 @@
+D:\Проекты C#\Practika\bin\Debug\Practika.exe.config
+D:\Проекты C#\Practika\bin\Debug\Practika.exe
+D:\Проекты C#\Practika\bin\Debug\Practika.pdb
+D:\Проекты C#\Practika\obj\Debug\Practika.csproj.AssemblyReference.cache
+D:\Проекты C#\Practika\obj\Debug\Practika.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\Practika\obj\Debug\Practika.AutorizationForm.resources
+D:\Проекты C#\Practika\obj\Debug\Practika.Properties.Resources.resources
+D:\Проекты C#\Practika\obj\Debug\Practika.csproj.GenerateResource.cache
+D:\Проекты C#\Practika\obj\Debug\Practika.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Practika\obj\Debug\Practika.exe
+D:\Проекты C#\Practika\obj\Debug\Practika.pdb
+D:\Проекты C#\Practika\obj\Debug\Practika.OperatorForm.resources
+D:\Проекты C#\Practika\obj\Debug\Practika.ContractDataForm.resources
